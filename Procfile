@@ -1,0 +1,1 @@
+web: gunicorn pro_compara.wsgi --log-file -

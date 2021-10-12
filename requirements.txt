@@ -1,0 +1,15 @@
+wheel
+Django==3.0
+djangorestframework == 3.10.3
+django-cors-headers == 3.4.0
+gunicorn == 20.0.4
+django-heroku == 0.3.1
+decorator
+scipy
+networkx==2.5
+numpy
+#cython
+matplotlib
+pandas
+icecream
+#drf-extra-fields
